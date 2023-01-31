@@ -9,11 +9,11 @@ I would output my config after completing this project
 
 ```
 Track and predict the enemy
- |
- v
+             |
+             v
 Auto-move your mouse to the keypoint of the person
- |
- v
+             |
+             v
 Auto-click "open the fire" 
 ```
 
