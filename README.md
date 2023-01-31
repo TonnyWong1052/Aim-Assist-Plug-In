@@ -14,7 +14,7 @@ Track and predict the enemy
 Auto-move your mouse to the keypoint of the person
  |
  v
-Auto-click "open the fire" 
+Auto "open the fire" (Mouse click)
 ```
 
 
@@ -27,9 +27,15 @@ GTA5
 ## Todo
 Human Tracking (completed)
 
+Auto shooting (completed)
+
+Config setting [eg: turn on or turn off, set-up the Rate of fire] (TBC)
+
 Performance improvement (TBC)
 
-Auto shooting (TBC)
 
 ## Model 
 Yolov5
+
+
+
