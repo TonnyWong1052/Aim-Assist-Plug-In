@@ -18,17 +18,15 @@ def detect():
     while True:
         w, h = width, height
         monitor = {'top': 0, 'left': 0, 'width': w, 'height': h}
-        # img = Image.frombytes('RGB', (w, h), sct.grab(monitor).rgb)
         screen = np.array(ImageGrab.grab())
         screen = cv2.cvtColor(src=screen, code=cv2.COLOR_BGR2RGB)
-        # # set the model use the screen
-        #
+        # set the model use the screen
         result = model(screen)
 
         print("Total person:" + str(len(result.xyxy[0])))
         # print(result.xyxy[0])
         # print(result.pandas().xyxy[0])
-        cv2.imshow('Screen', result.render(labels=False)[0])
+        result.show(labels=False)
 
         # click p to quit
         if cv2.waitKey(27) & 0xFF == ord('p'):
