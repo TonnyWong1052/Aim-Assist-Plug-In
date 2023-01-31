@@ -26,7 +26,7 @@ def detect():
         print("Total person:" + str(len(result.xyxy[0])))
         # print(result.xyxy[0])
         # print(result.pandas().xyxy[0])
-        result.show(labels=False)
+        cv2.imshow('Screen', result.render(labels=False)[0])
 
         # click p to quit
         if cv2.waitKey(27) & 0xFF == ord('p'):
