@@ -3,6 +3,10 @@ I'm writing an auto-aiming plug-in for all human gunfighting games. The plug-in 
 
 This plug-in is to be used as a reference only and should not be utilized in any production or competitive games.
 
+## How does it work?
+
+track and predict the enemy --> auto-move your mouse to the keypoint of the person --> auto-click "open the fire" 
+
 ## Demon
 GTA5
 
