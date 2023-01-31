@@ -29,6 +29,8 @@ Human Tracking (completed)
 
 Auto shooting (completed)
 
+parameter adjustment(completed)
+
 Config setting [eg: turn on or turn off, set-up the Rate of fire] (TBC)
 
 Performance improvement (TBC)
