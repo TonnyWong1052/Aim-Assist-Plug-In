@@ -9,12 +9,18 @@ I would output my config after completing this project
 
 ```
 Track and predict the enemy
- |
- v
+             |
+             v
 Auto-move your mouse to the keypoint of the person
+<<<<<<< HEAD
  |
  v
 Auto "open the fire" (Mouse click)
+=======
+             |
+             v
+Auto-click "open the fire" 
+>>>>>>> 3ffdd01e1b0feb0db8dca0de7a8b642ddb175c17
 ```
 
 
