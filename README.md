@@ -27,9 +27,9 @@ GTA5
 ## Todo
 Human Tracking (completed)
 
-Perference improvement (TBC)
+Performance improvement (TBC)
 
-auto shooting (TBC)
+Auto shooting (TBC)
 
 ## Model 
 Yolov5
