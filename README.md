@@ -23,6 +23,14 @@ GTA5
 
 ![demon](https://github.com/TonnyWong1052/Auto-aiming-Plug-In/blob/main/demon.png)
 
+## Operating System Testing
+
+MacOs avabiliable
+
+Windows -
+
+Linux -
+
 
 ## Todo
 Human Tracking (completed)
